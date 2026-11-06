@@ -1,10 +1,10 @@
 <!-- Profile README for github.com/krishmodi0202 — goes in the krishmodi0202/krishmodi0202 repo -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Krish%20Modi&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20Team%20Lead%20%7C%20AI%20Products&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Krish%20Modi&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%20Products%20%7C%20Full-Stack&descAlignY=58&descSize=16" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=36BCF7&center=true&vCenter=true&width=900&lines=I+ship+AI+products+people+actually+use;Joined+DataSetu+at+day+zero+%E2%86%92+now+lead+the+team;RAG+%C2%B7+MCP+%C2%B7+RabbitMQ+%C2%B7+React+Native;4+Springer+papers+%C2%B7+2+patents+filed" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=36BCF7&center=true&vCenter=true&width=900&lines=I+ship+AI+products+people+actually+use;Joined+DataSetu+at+day+zero+%E2%86%92+now+own+products+end+to+end;RAG+%C2%B7+MCP+%C2%B7+RabbitMQ+%C2%B7+React+Native;4+Springer+papers+%C2%B7+2+patents+filed" alt="typing intro" />
 
 <br/>
 
@@ -30,8 +30,8 @@
 
 ```ts
 const krish = {
-  role:      "SDE & Team Lead",
-  leading:   "5 engineers · PRD → production",
+  role:      "Software Engineer",
+  leading:   "a 5-engineer team · PRD → prod",
   building:  ["DataSetu", "Vybemo"],
   loves:     ["systems that scale", "LLMs that behave",
               "features users actually need"],
@@ -113,7 +113,7 @@ Turns a PRD into epics, user stories and sprint timelines with AI, then exports 
 <td width="50%" valign="top">
 
 ### 🏗️ 10+ client platforms
-E-commerce, travel, insurance renewals, export documents, events and community orgs — as **builder or team lead**, with CI/CD and tests.
+E-commerce, travel, insurance renewals, export documents, events and community orgs — as **builder and owner**, with CI/CD and tests.
 
 `MERN` `Next.js` `GitHub Actions` `Jest`
 
@@ -131,7 +131,7 @@ timeline
          : Full-Stack Intern — corporate platform + CI/CD
          : ICICT London — presented NASA Turbofan paper
          : Dec — joined DataSetu at day zero
-    2026 : Converted to full-time · Team Lead of 5
+    2026 : Converted to full-time · leading a team of 5
          : Co-building Vybemo
 ```
 
