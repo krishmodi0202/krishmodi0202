@@ -4,14 +4,19 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=36BCF7&center=true&vCenter=true&width=640&lines=I+ship+AI+products+people+actually+use;Joined+DataSetu+at+day+zero+%E2%86%92+now+lead+the+team;RAG+%C2%B7+LLM+tool+calling+%C2%B7+MCP+%C2%B7+RabbitMQ+%C2%B7+React+Native;4+Springer+papers+%C2%B7+2+patents+filed" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=36BCF7&center=true&vCenter=true&width=900&lines=I+ship+AI+products+people+actually+use;Joined+DataSetu+at+day+zero+%E2%86%92+now+lead+the+team;RAG+%C2%B7+MCP+%C2%B7+RabbitMQ+%C2%B7+React+Native;4+Springer+papers+%C2%B7+2+patents+filed" alt="typing intro" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/krishmodi33"><img src="https://img.shields.io/badge/LinkedIn-Krish%20Modi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:krishmodi33@gmail.com"><img src="https://img.shields.io/badge/Mail-krishmodi33%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://datasetu.co.in"><img src="https://img.shields.io/badge/Building-DataSetu-1f6feb?style=for-the-badge&logo=rocket&logoColor=white"/></a>
-<a href="https://vybemo.com"><img src="https://img.shields.io/badge/Side%20Project-Vybemo-111111?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/krishmodi33"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:krishmodi33@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/></a>&nbsp;
+<a href="https://github.com/krishmodi0202"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>
+
+<br/>
+
+<a href="https://datasetu.co.in"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20building-DataSetu-2F5BFF?style=flat&labelColor=161b22"/></a>
+<a href="https://vybemo.com"><img src="https://img.shields.io/badge/%F0%9F%91%97%20side%20project-Vybemo-8957e5?style=flat&labelColor=161b22"/></a>
+<img src="https://img.shields.io/badge/%F0%9F%93%8D%20based%20in-Vadodara%2C%20India-2ea44f?style=flat&labelColor=161b22"/>
 
 </div>
 
