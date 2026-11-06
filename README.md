@@ -1,29 +1,74 @@
-<h1 align="center">Hi 👋, I'm Krish Modi</h1>
-<h3 align="center">Transforming Designs into Reality from India</h3>
+<!-- Profile README for github.com/krishmodi0202 — paste into the krishmodi0202/krishmodi0202 repo -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishmodi0202&label=Profile%20views&color=0e75b6&style=flat" alt="krishmodi0202" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/krishmodi33" target="blank"><img src="https://img.shields.io/twitter/follow/krishmodi33?logo=twitter&style=for-the-badge" alt="krishmodi33" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Krish+Modi+%F0%9F%91%8B;Software+Engineer+%26+Team+Lead;I+ship+AI+products+people+actually+use;Backend+%C2%B7+LLMs+%C2%B7+Product+thinking" alt="Typing intro" />
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+**I build production systems end to end — and I care about _why_ a feature exists, not just how it's built.**
 
-- 💬 Ask me about **React**
+<a href="https://www.linkedin.com/in/krishmodi33"><img src="https://img.shields.io/badge/LinkedIn-krishmodi33-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:krishmodi33@gmail.com"><img src="https://img.shields.io/badge/Email-krishmodi33%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://vybemo.com"><img src="https://img.shields.io/badge/Side%20project-vybemo.com-111111?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=krishmodi0202&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" />
 
-- 📫 How to reach me **krishmodi33@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/krishmodi33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishmodi33" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krishmodi33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishmodi33" height="30" width="40" /></a>
-<a href="https://instagram.com/krishmodi_0202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishmodi_0202" height="30" width="40" /></a>
-<a href="https://discord.gg/QNb6MrnZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="QNb6MrnZ" height="30" width="40" /></a>
+---
+
+```ts
+const krish = {
+  role:       "Software Development Engineer & Team Lead",
+  building:   ["DataSetu — AI B2B networking & CRM (1,300+ users)", "Vybemo — social fashion app, live on Play Store"],
+  team:       "5 engineers · PRD → production",
+  thinksIn:   ["systems", "user problems", "measurable outcomes"],
+  research:   "4 Springer papers in applied ML · ICICT London 2025 · 2 patents filed",
+  education:  "B.Tech Computer Engineering, PDEU (CGPA 8.75)",
+  askMeAbout: ["RAG & LLM tool calling", "MCP servers", "RabbitMQ workers", "payments", "shipping fast without breaking prod"],
+};
+```
+
+## 🚀 What I've shipped
+
+| | Project | What it is | Built with |
+|:-:|---|---|---|
+| 🤝 | **DataSetu** | AI-powered B2B networking & CRM SaaS — iOS/Android app, web, admin and associate portals. Joined at day zero, now lead the team. | React Native · Node.js · FastAPI · MongoDB · RabbitMQ · Meilisearch · OpenAI |
+| 🧠 | **AI layer for DataSetu** | Semantic search over 200K+ records (65% faster), RAG WhatsApp assistant, LLM tool calling with guardrails & evals, an MCP server with 80+ tools | Python · OpenAI · Gemini · embeddings · MCP |
+| 👗 | **Vybemo** *(side project)* | Social fashion app — outfit posts, timed rating rounds, city battles. Backend with 340+ APIs, built to scale horizontally | Node.js · Redis · Socket.IO · AWS · React Native · Next.js |
+| 📣 | **White-label WhatsApp platform** | Broadcast campaigns + team inbox on the official Cloud API — one codebase, branded per client | TypeScript · monorepo · Docker |
+| 🎯 | **AI lead-sourcing engine** | Finds freelance leads daily, drafts outreach with AI, sends only after human confirmation | Python · Node.js · React |
+| 🏗️ | **10+ client platforms** | E-commerce, travel, insurance renewals, export documents, events, community orgs — as builder or team lead | MERN · Next.js · CI/CD · tests |
+
+## 🔬 Research
+
+- 📄 **Hybrid AI Optimization for Transformer Power Systems** — multi-agent DQN + autoencoder fault detection
+- 📄 **Predictive Maintenance on NASA Turbofan data** — presented at **ICICT London 2025**
+- 📄 **Diabetes prediction** with statistical feature engineering + ML
+- 📄 **Hyper-localized tax optimization** using AI/ML
+
+## 🛠️ Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,express,react,nextjs,tailwind,mongodb,redis,rabbitmq,postgres,docker,aws,githubactions,linux,figma&perline=9" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center"><b>AI/ML</b> · LLMs · RAG · Embeddings · MCP · Prompt engineering · LLM evals · TensorFlow · scikit-learn · Pandas</p>
+<p align="center"><b>Product</b> · PRDs · Roadmapping · Sprint planning · KPIs · UAT · Stakeholder management</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishmodi0202&show_icons=true&locale=en&layout=compact" alt="krishmodi0202" /></p>
+## 📊 Activity
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishmodi0202&show_icons=true&locale=en" alt="krishmodi0202" /></p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=krishmodi0202&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=krishmodi0202&theme=tokyonight&hide_border=true" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishmodi0202&" alt="krishmodi0202" /></p>
+<p align="center"><i>Most of my work lives in private company repos — the green squares above include it.</i></p>
+
+---
+
+<div align="center">
+
+**Currently:** leading the DataSetu team · scaling Vybemo · writing about what I learn building AI products
+
+<sub>Always happy to talk backend systems, AI products and product thinking → <a href="mailto:krishmodi33@gmail.com">krishmodi33@gmail.com</a></sub>
+
+</div>
